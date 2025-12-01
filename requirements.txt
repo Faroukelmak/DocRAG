@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-openai
+langgraph>=0.6.5
+openai
+faiss-cpu
+pydantic
+python-dotenv
+beautifulsoup4
+requests
+streamlit
+wikipedia
+langchain-groq 
+groq
+pypdf
+uuid
